@@ -4,6 +4,13 @@ This is a simple API built to enable users send and recieve sms messages
 
 
 
+## Technologies used
++ NodeJs
++ ExpressJs
++ MongoDB
+
+
+
 ## API
 
 ### POST A CONTACT (/v1/contact)
@@ -107,8 +114,3 @@ npm run dev
 4 Install postman to test all endpoints
 
 
-
-## Technologies used
-+ NodeJs
-+ ExpressJs
-+ MongoDB
