@@ -16,8 +16,6 @@ npm run dev
 3 Create `.env` file in the root of your project and insert your keys. See a sample in the `.env.sample` file
 
 4 Install postman to test all endpoints
-
-
 ## Technologies used
 + NodeJs
 + ExpressJs
@@ -26,7 +24,6 @@ npm run dev
 
 
 ## API
-
 ### POST A CONTACT (/v1/contact)
 
 - name, contactNumber
